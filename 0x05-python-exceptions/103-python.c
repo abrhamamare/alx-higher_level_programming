@@ -76,4 +76,3 @@ void print_python_list(PyObject *p)
             print_python_float(list->ob_item[i]);
     }
 }
-© 2022 GitHub, Inc.
